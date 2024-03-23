@@ -1,2 +1,2 @@
 # langchain
-this repo is for langchain practice projects
+use langcain to automate dialog database generation
