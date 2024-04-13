@@ -11,7 +11,7 @@ import json
 
 if __name__ == "__main__":
     print("This is a langchain program")
-    linkedin_profile_url = linkedin_lookup_agent(name="Sining Wang")
+    linkedin_profile_url = linkedin_lookup_agent(name="Sining Wang case western reserve university")
 
     summary_template = """
     given the Linkedin information {information} about a person I want to you to create
